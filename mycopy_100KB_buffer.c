@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define BUFSIZE 100000   //allocate buffer size equal 100MB
+#define BUFSIZE 100000   //allocate buffer size equal 100KB
 
 int main(int argc, char **argv)
 
