@@ -1,0 +1,48 @@
+start test 1MB file size
+0.003
+0.003
+0.021
+0.002
+0.003
+
+
+start test 10MB file size
+0.018
+0.010
+0.034
+0.011
+0.010
+
+
+start test 100MB file size
+0.212
+0.099
+0.089
+0.149
+0.125
+
+
+start test 200MB file size
+0.433
+0.210
+0.207
+0.181
+0.188
+
+
+start test 500MB file size
+0.788
+0.690
+0.755
+0.758
+0.736
+
+
+start test 1GB file size
+4.288
+5.069
+4.810
+5.323
+4.392
+
+
